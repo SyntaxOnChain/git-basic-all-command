@@ -37,7 +37,7 @@ bash
 
 # Clone the repository
 
-[ If you want to clone this repo please chick here](https://github.com/SyntaxOnChain/git-basic-all-command)
+[ If you want to clone this repo please click here](https://github.com/SyntaxOnChain/git-basic-all-command)
 
 # অথবা GitHub-এ ডাউনলোড ZIP করে এক্সট্র্যাক্ট করুন
 
