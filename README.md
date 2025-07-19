@@ -37,7 +37,7 @@ bash
 
 # Clone the repository
 
-[🔗 View Live Repo](https://github.com/your-username/your-repo-name.git)
+[git clone](https://github.com/SyntaxOnChain/git-basic-all-command)
 
 # অথবা GitHub-এ ডাউনলোড ZIP করে এক্সট্র্যাক্ট করুন
 
